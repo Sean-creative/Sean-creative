@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=558168&height=150&section=header&text=Cheers🚀&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=558168&height=150&section=header&text=Cheers🚀&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=45&desc=%20&descAlignY=62&descAlign=62&fontAlign=53)
   
 ####  :wave: 안녕하세요 개발자 션입니다!
  재미있게 경험하고 배운 것들을 피드백합니다!<br>
