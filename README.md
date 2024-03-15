@@ -8,18 +8,23 @@
   
 <h3 align="center">⛏️ Skills </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Typescript-ffw13b?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-
-  <br>
-  <img src="https://img.shields.io/badge/Nest.js-6DB33F?style=flat-square&logo=Nest.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JPA-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/QueryDSL-ffw13b?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp   
+  <img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=junit5&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/></a>&nbsp   
+  <img src="https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Argo CD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/></a>&nbsp ****  
+  <br>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a>&nbsp  
 </p>
 
 <h3 align="center">🔊 Contact</h3>
