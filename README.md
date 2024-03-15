@@ -5,7 +5,6 @@
 ####  :wave: 안녕하세요 개발자 션입니다!
  재미있게 경험하고 배운 것들을 피드백합니다!<br>
  
- <br/>
   
 <h3 align="center">⛏️ Skills </h3>
 <p align="center">
@@ -23,7 +22,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
 </p>
 
- <br>
 <h3 align="center">🔊 Contact</h3>
 <p align="center">
   <a href="https://sean-lets-go.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://sienna1022.tistory.com/"/></a>&nbsp
