@@ -40,7 +40,7 @@ markdown_text = """
   <a href="mailto:ksw6125000@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=20200803@gmail.com"/></a>
 </p>
 
-
+<br>
 ## ✅ Latest Blog Post
 
 """  # list of blog posts will be appended here
